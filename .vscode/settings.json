@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "./venv/bin/python",
+    "python.venvFolders": ["venv"],
+    // Set the root directory for running notebooks and the Interactive window.
+    "jupyter.notebookFileRoot": "./venv/share/jupyter",
+    "jupyter.runStartupCommands": [],
+    "editor.defaultFormatter": null
+}
